@@ -1,3 +1,19 @@
 .bgcolor{
     background-image: linear-gradient(90deg,blue,#4949bbbb);
 }
+
+.footer-banner{
+    background-image: url(../img/background.png);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.footer{
+    background-image: linear-gradient(90deg, blue,violet);
+}
+.footer-2{
+   background-color: black;
+   height: 10vh;
+}
